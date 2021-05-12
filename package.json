@@ -36,7 +36,7 @@
     "react-swipeable-views": "0.13.3",
     "react-table": "6.10.0",
     "react-tagsinput": "3.19.0",
-    "swiper": "^5.3.6"
+    "swiper": "^6.5.1"
   },
   "scripts": {
     "start": "react-scripts start",
